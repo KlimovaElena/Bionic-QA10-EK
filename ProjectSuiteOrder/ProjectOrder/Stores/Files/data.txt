@@ -1,0 +1,6 @@
+ID,CustomerName,Product,Quantity,Date,Street,City,State,Zip,Card,CardNo,ExpirationDate
+1, Meredith Grey,FamilyAlbum,2,09/07/2014, 2nd Ave, Seattle, WA, 03565,Visa,0321456,05/07/2014
+2,Derek Shepard,MyMoney,2,06/07/2014,3rd Ave,Seattle,WA,03256,Visa,230145698,07/07/2014
+3,Kelly Omelly,FamilyAlbum,3,08/07/2014,4th Ave,Sydney,NSW,03258,MasterCard,2301456,08/07/2014
+4,Mark Sloan,FamilyAlbum,4,09/07/2014,5th Ave,Sydney,NSW,03698,Visa,236589741,10/07/2014
+5,Arizona Robins,ScreenSaver,5,10/07/2014,6th Ave,Stockholm,SW,56987,American Express,236589745,11/07/2014
